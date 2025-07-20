@@ -1,0 +1,28 @@
+
+body {
+  background-color: #39bdcf; 
+  padding: 20px;
+}
+
+/* Style the weather box (the card that shows the result) */
+#weatherBox {
+  background-color: rgb(239, 133, 133);
+  padding: 20px;
+  border-radius: 10px;      /* rounded corners */
+  max-width: 400px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(235, 8, 8, 0.1); /* soft shadow */
+}
+
+/* Center the title */
+h1 {
+  color: #9f0d28;
+  margin-bottom: 30px;
+}
+
+/* Style for each paragraph inside the weather box */
+#weatherBox p {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
